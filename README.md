@@ -1,2 +1,4 @@
-# gandas-image-denoising
-Repository for the paper "GANDAS: microscopy image denoising using GANs, Differentiable data Augmentation and Structure preserving losses".
+# mid3a-image-denoising
+Repository for the paper "MID3A: Microscopy Image Denoising meets Differentiable Data Augmentation".
+
+Code will be available shortly.
